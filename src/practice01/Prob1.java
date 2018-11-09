@@ -10,6 +10,12 @@ public class Prob1 {
 		int number = scanner.nextInt();
 		
 		/* 코드를 완성합니다. */
+		if(number % 3 == 0) {
+			System.out.println("3읠 배수입니다.");
+		}
+		else {
+			System.out.println("3읠 배수가 아닙니다.");
+		}
 		
 		scanner.close();
 	}
