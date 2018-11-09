@@ -34,6 +34,5 @@ public class Prob3 {
 			scanner.close();
 			return;
 		}
-		
 	}
 }

@@ -18,7 +18,7 @@ public class Prob5 {
 				}
 				if(countClap == 2) {
 					System.out.println(i + " 짝짝");
-				}
+				} 
 			}
 		}
 	}

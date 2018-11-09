@@ -19,7 +19,6 @@ public class Prob4 {
 			}
 			System.out.println("");
 		}
-		
 		scanner.close();
 	}
 
